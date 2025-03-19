@@ -14,7 +14,7 @@ public class InputConsole {
         usia = Integer.parseInt(con.readLine());
 
         System.out.println("Nama kamu adalah " + nama);
-        System.out.println("Saat ini berusia " + usia + "Tahun");
+        System.out.println("Saat ini berusia " + usia + " Tahun");
 
     }
 
