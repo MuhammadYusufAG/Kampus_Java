@@ -1,5 +1,4 @@
 package Tugas;
-import java.lang.Math;
 import java.util.Scanner;
 
 public class CountCircle {
