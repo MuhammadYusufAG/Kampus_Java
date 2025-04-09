@@ -13,7 +13,7 @@ public class CountCircle {
         System.out.println("======================");
 
         //input
-        System.out.println("Jari-Jari: ");
+        System.out.print("Jari-Jari: ");
         r = Jari_Jari.nextInt();
 
         //Process or rumus
@@ -25,9 +25,6 @@ public class CountCircle {
         System.out.println("Diameter: " + diameter);
         System.out.println("Luas: " + Luas);
         System.out.println("Keliling: " + Keliling);
-
-
-
 
     }
 }
